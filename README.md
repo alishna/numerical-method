@@ -1,5 +1,6 @@
-Numerical Methods Collection
-This repository contains implementations of several classical numerical methods for solving equations, integration, and differential equations, including:
+**Numerical Methods Collection**
+
+This repository contains implementations of several numerical methods for solving equations, integration, and differential equations, including:
 
 Bisection Method for root finding,
 
